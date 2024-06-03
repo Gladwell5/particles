@@ -31,11 +31,13 @@ Initial analysis and visualisation of each of the variables beforehand to get fa
 Calculate the invariant mass in two ways for each collision/row in the dataset.
 Use each of the equations below to do this. Plot a scatterplot of the invariant mass as estimated by each.
 
-### Invariant Mass equations
+### Invariant Mass equations  
 
-$$M = \sqrt{(E_1 + E_2)^2 - \|\textbf{p}_1 + \textbf{p}_2 \| ^2} = \sqrt{(E_1+E_2)^2-((p_{1_x}+p_{2_x})^2+(p_{1_y}+p_{2_y})^2+(p_{1_z}+p_{2_z})^2)}$$
+#### Eq. 1
+$$M = \sqrt{(E_1 + E_2)^2 - \|\textbf{p}_1 + \textbf{p}_2 \| ^2} = \sqrt{(E_1+E_2)^2-((p_{1_x}+p_{2_x})^2+(p_{1_y}+p_{2_y})^2+(p_{1_z}+p_{2_z})^2)}$$  
 
-$$M = \sqrt{2p_{T1}p_{T2}(\cosh(\eta_1-\eta_2)-\cos(\phi_1-\phi_2))}$$
+#### Eq. 2
+$$M = \sqrt{2p_{T1}p_{T2}(\cosh(\eta_1-\eta_2)-\cos(\phi_1-\phi_2))}$$  
 
 ### Questions
 1. Which equation will give the more accurate estimate of the invariant mass and why?
