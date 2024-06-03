@@ -128,10 +128,14 @@ Finally, we're going to gradually adjust the amount of data we use in training t
 
 
 ## Acknowledgements and sources
-Many thanks to the following git repos:
-https://github.com/jgalser/deeplearning_particlephysics
-https://github.com/opendata-education/en_Physics
+Many thanks to the following git repos:  
 
-And these sources for the two datasets:
-https://www.kaggle.com/datasets/naharrison/particle-identification-from-detector-responses (pid-5M)
-https://opendata.cern.ch/record/545 (DiMuon_SingleMu)
+https://github.com/jgalser/deeplearning_particlephysics  
+
+https://github.com/opendata-education/en_Physics  
+
+
+And these sources for the two datasets:  
+https://www.kaggle.com/datasets/naharrison/particle-identification-from-detector-responses (pid-5M)  
+
+https://opendata.cern.ch/record/545 (DiMuon_SingleMu)  
